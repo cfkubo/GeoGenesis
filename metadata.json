@@ -1,0 +1,8 @@
+{
+  "name": "GeoGenesis",
+  "description": "Plant a tree, verify with AI, track its growth, and enter the global green lottery. A mobile-first experience for planetary stewardship.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
